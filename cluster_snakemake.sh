@@ -1,4 +1,4 @@
-Certainly! Here's a complete example of a Snakefile along with a Slurm cluster configuration that uses a Slurm array for job parallelization. This Snakefile will run multiple tasks in parallel using Snakemake and Slurm's `sbatch`:
+A Snakefile along with a Slurm cluster configuration that uses a Slurm array for job parallelization. This Snakefile will run multiple tasks in parallel using Snakemake and Slurm's `sbatch`:
 
 **Snakefile**:
 
